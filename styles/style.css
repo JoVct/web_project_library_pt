@@ -249,8 +249,8 @@
 .person_name_feynman {
   /* Use os valores corretos das propriedades top/right/bottom/left para posicionar o elemento */
   position: absolute;
-  top: 49px;
-  right: 319px;
+  top: -30px;
+  left: 319px;
 }
 
 .person_name_burbidge {
